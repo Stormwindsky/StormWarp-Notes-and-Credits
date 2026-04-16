@@ -27,3 +27,11 @@ Coming probably soon :)
 The next notes and credits will be added, but they are not yet available in the editor at this time bc i need 2 make somme test
 
 this message will be removed later but every sprites, backdrops, etc here will be under same license so = CC0 1.0
+
+
+==========
+
+
+space1, is made by StumpyStrust here:
+
+https://opengameart.org/content/space-background-2
