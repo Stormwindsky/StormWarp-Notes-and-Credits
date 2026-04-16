@@ -20,3 +20,10 @@ https://www.stormwindsky.com/Stormwindsky's%20Collection.html
 
 
 Coming probably soon :)
+
+
+## WARNING
+
+The next notes and credits will be added, but they are not yet available in the editor at this time bc i need 2 make somme test
+
+this message will be removed later but every sprites, backdrops, etc here will be under same license so = CC0 1.0
