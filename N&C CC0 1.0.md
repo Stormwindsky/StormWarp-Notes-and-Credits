@@ -18,20 +18,21 @@ https://www.stormwindsky.com/Stormwindsky's%20Collection.html
 
 ## Creation from OpenGameArt.org
 
-
-Coming probably soon :)
-
-
-## WARNING
-
-The next notes and credits will be added, but they are not yet available in the editor at this time bc i need 2 make somme test
-
-this message will be removed later but every sprites, backdrops, etc here will be under same license so = CC0 1.0
+###### PLEASE NOTE: SOME WORKS ARE COVERED BY MULTIPLE LICENSES. THIS MEANS YOU CAN CHOOSE THE LICENSE THAT SUITS YOU BEST. IN MY CASE, FOR LEGAL REASONS, etc., I have chosen the CC0 1.0 license because works that use multiple licenses can be selected by their users, who have the freedom to choose. Thank you for your understanding.
 
 
 ==========
 
+### Audio's:
+
+Bumbledee under pressure is made by jobromedia under licenses: CC0 1.0, GPL 2.0, GPL 3.0, CC-BY 3.0, CC-BY-SA 3.0
+
+https://opengameart.org/content/bumblebee-loop
+
+### Backdrops:
 
 space1, is made by StumpyStrust here:
 
 https://opengameart.org/content/space-background-2
+
+
