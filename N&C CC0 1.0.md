@@ -35,4 +35,10 @@ space1, is made by StumpyStrust here:
 
 https://opengameart.org/content/space-background-2
 
+### Sprites & Costumes:
+
+ham, made by Belohlavek here:
+
+https://opengameart.org/content/cartoon-ham
+
 
